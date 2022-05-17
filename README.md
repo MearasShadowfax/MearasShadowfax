@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MearasShadowfax
-- 👀 I’m interested in robotics and aircraft
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning AWS Cloud
 
 <!---
 MearasShadowfax/MearasShadowfax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
