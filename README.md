@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MearasShadowfax
-- 👀 I’m interested in robotics
+- 👀 I’m interested in computers, IT and robotics
 - 🌱 I’m currently learning AWS Cloud
 
 <!---
