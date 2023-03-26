@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MearasShadowfax (Scott)
-- 👀 I’m interested in computers, IT, robotics, and photography
-- 🌱 I’m currently learning AWS Cloud
+- 👀 I’m interested in IT, robotics, and photography
+- 🌱 I’m currently learning AWS
 
 <!---
 MearasShadowfax/MearasShadowfax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
